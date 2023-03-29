@@ -1,0 +1,21 @@
+.registration-form
+{
+    background: #2d3e3f;
+    color: white;
+	width: 350px;
+	height: 400px;
+	padding-bottom: 20px;
+	position: absolute;
+	top:50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	margin: auto;
+    padding: 70px 50px 20px 50px;
+    
+}
+
+.button-style {
+    
+    padding: 5px 10px;
+    margin-right: 20px;
+  }
